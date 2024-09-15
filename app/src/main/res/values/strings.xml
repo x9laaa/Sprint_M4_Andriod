@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sprint_M4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textBtnWeb">WebSite</string>
+    <string name="textBtnVolver">Volver</string>
+    <string name="textBtnAbrir">Abrir</string>
+    <string name="textViewV">Sekiro: Shadows Die Twice\n 22 de marzo de 2019 </string>
+    <string name="textViewH">Sekiro: Shadows Die Twice 22 de marzo de 2019 </string>
+    <string name="DescriptionImagen1">Imagen 1</string>
+    <string name="DescriptionImagen2">Imagen 2</string>
+    <string name="DescriptionImagen3">Imagen 3</string>
+</resources>
